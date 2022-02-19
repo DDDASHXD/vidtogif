@@ -1,1 +1,2 @@
 # vidtogif
+Very simple web app that turns a video into a gif using the Yahoo gifshot api
